@@ -3,3 +3,4 @@
 - Mehrere Personen können gleichzeitig an einem Projekt arbeiten ohne sich gegenseitig zu stören.
 ## Weaknesses
 - Git hat eine steile Lernkurve und kann für Anfänger sehr verwirrend sein.
+- Konflikte beim Mergen können kompliziert und zeitaufwändig zu lösen sein.
